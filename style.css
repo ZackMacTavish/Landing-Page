@@ -36,14 +36,14 @@ nav{
 }
 
 .hamburger {
-    height: 27%;
+    
     justify-self: end;
     
 }
 
 #logo {
 grid-column: 2/3;
-font-size: 80px;
+font-size: 24px;
 font-family: 'noahbold';
 
 }
@@ -71,7 +71,7 @@ section{
     position: absolute;
     top: 33%;
     left: 9%;
-    font-size: 300px;
+    font-size: 90px;
     transform: translate(-20%, -70%);
     color: white;
     z-index: 3;
